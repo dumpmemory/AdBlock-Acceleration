@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eUo29ZD36LzVUk5NHUaTmQ
-! Version: 202310102340
+! Checksum: Sj8vwE3Wh1Bqiwvl1oxi3A
+! Version: 202310110540
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-10-10 23:40 UTC
+! Last modified: 2023-10-11 05:40 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -40020,6 +40020,7 @@ tafelberg.co.za,waltons.co.za##.optin-sdk-root
 origin.com##.origin-sitestripe
 eventix.io##.ot-cookies
 cbsnews.com##.ot-fade-in
+3dviewer.net##.ov_bottom_floating_panel
 webapps.geohive.ie##.overlay
 hero-wars.com##.overlay--cookie_banner_without_icons
 jackjones.com,jjxx.com,mamalicious.com,only.com,onlyandsons.com,veromoda.com##.overlay-backdrop
@@ -41833,6 +41834,7 @@ nysun.com##.border-sunGolden
 mashable.com##.border-warmgray-100
 quillette.com##.border.bg-white.mb-4
 spotlightpa.org##.bottom-0.fixed
+simpleanalytics.com##.bottom-20
 brighteon.com##.bottom-banner
 allevents.in##.bottom-right-subscribe
 bizcommunity.com##.bottom-slideIn
@@ -42277,6 +42279,7 @@ lifewire.com##.latest-issue-spotlight
 gearjunkie.com##.ldm-cta
 soaphub.com##.ldm-newsletter-promo-inner
 punchdrink.com,tastecooking.com##.lead-capture-campaign
+simpleanalytics.com##.left-0
 webcodegeeks.com##.lepopup-popup-container
 webcodegeeks.com##.lepopup-popup-overlay
 omnivorescookbook.com##.lh-subscribe
