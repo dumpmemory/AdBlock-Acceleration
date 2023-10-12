@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1bDecq5rW9zuEQFDE1ZN+A
-! Version: 202310111800
+! Checksum: nlxJTr0Li1gbPmrOAKkSTg
+! Version: 202310112315
 ! Title: Fanboy's Annoyance List
-! Last modified: 2023-10-11 18:00 UTC
+! Last modified: 2023-10-11 23:15 UTC
 ! Expires: 9 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -45500,6 +45500,8 @@ deutscher-fenstershop.de##.rule_assept
 mietz.app##.set-all-components-to-display-none-and-use-this-div-to-create-a-symbol
 fit4projects.at##.setcookie
 foto-gregor.de##.sf-modal
+artforma.de##.sg-cks-backdrop
+artforma.de##.sg-cks-info
 pneuhage.de##.site-blocker
 autopark.de,mentzl.de##.site-header-overlay
 plus-gp-joule.de##.spinner
