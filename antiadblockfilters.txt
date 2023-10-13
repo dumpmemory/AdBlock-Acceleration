@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6q3ZOML23e7DTk9GA9Ds9A
-! Version: 202310131140
+! Checksum: 75T2lO4Xh1CJ3ZVxCl6p1w
+! Version: 202310131740
 ! Title: Adblock Warning Removal List
-! Last modified: 13 Oct 2023 11:40 UTC
+! Last modified: 13 Oct 2023 17:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html
@@ -709,7 +709,6 @@ dropmefiles.com.ua,dropmefiles.net##.intro
 winzoro.net##.isadNotif
 ivi.ru##.ivi-footer ~ div[class] > style + div[class]
 doctorrouter.ru##.jgcabd-container
-go.mail.ru##.js-adb-msg
 ppc.world##.js-detected-block
 anime-bit.ru##.layer_box > #header
 dtf.ru,vc.ru##.layout__right-column > div[class*=" "][style] > div[class*=" "] > div:only-child
