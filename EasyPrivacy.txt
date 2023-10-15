@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202310141750
+! Version: 202310142243
 ! Title: EasyPrivacy
-! Last modified: 14 Oct 2023 17:50 UTC
+! Last modified: 14 Oct 2023 22:43 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -3038,7 +3038,6 @@
 /web-js-telemetry-service/*
 /web-pixel-shopify-app-pixel@
 /web-pixel-shopify-custom-pixel@
-/web-vitals-
 /web-vitals.
 /web-vitals/*
 /web/push?
@@ -3593,6 +3592,7 @@ omni.soundestlink.com$image
 /csi_204?$image,other,ping,script
 /gen_204?$image,other,ping,script
 /generate_204?$image
+||google.*/url?$ping
 ||google.com/gen_204?
 ||googleapis.com^*/gen_204?
 ||gstatic.com/gen_204?
@@ -3774,6 +3774,7 @@ _mongo_stats/
 ||go-mpulse.net^
 ||googleoptimize.com^
 ||googletagmanager.com^
+||gw-dv.vip^
 ||hdmtools.com^
 ||hs-analytics.net^
 ||hsadspixel.net^
@@ -9245,6 +9246,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a-counter.kiev.ua^$third-party
 ||adblockmetrics.ru^$third-party
 ||admile.ru^$third-party
+||adsmediator.com^$third-party
 ||adx.com.ru^$third-party
 ||airlogs.ru^$third-party
 ||announcement.ru^$third-party
@@ -11285,6 +11287,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.big-boards.com^
 ||stats.bitgravity.com^
 ||stats.bluebillywig.com^
+||stats.bradmax.com^
 ||stats.callnowbutton.com^
 ||stats.cmcigroup.com^
 ||stats.curds.io^
@@ -13382,6 +13385,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cstats.sankakucomplex.com^
 ||cultofmac.com/djrxqhzkbsgf.js
 ||cvs.com/tnadstlinj.js
+||cwt.citywire.info^
 ||d.skk.moe^
 ||dailymail.co.uk/geo/
 ||dailymail.co.uk/rta2/
@@ -14054,6 +14058,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sharesies.com/v1/track
 ||shavetape.cash/stat/
 ||shazam.com/services/metrics/
+||shobiddak.com/logging/
 ||shopeemobile.com/*/tr/
 ||shopmetric.rediff.com^
 ||siberiantimes.com/counter/
@@ -14169,6 +14174,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||swarm.video/stats/
 ||t.3hentai.net^
 ||t.9gag.com^
+||t.airasia.com^
 ||t.allmodern.com^
 ||t.appsflyer.com^
 ||t.av.st^
@@ -32660,6 +32666,7 @@ arketing.indianadunes.com^
 ||fb.ru/stat/
 ||fontanka.ru/api/metrics/
 ||fotostrana.ru/start/
+||goya.rutube.ru^
 ||hh.ru/analytics^
 ||hh.ru/stat?
 ||irecommend.ru/collect/
